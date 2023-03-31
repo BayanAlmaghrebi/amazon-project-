@@ -1,1 +1,2 @@
-# Simple amazon-project-
+# Simple amazon project
+
